@@ -12,7 +12,3 @@ This repository contains the source code for a blockchain-based identity verific
 - **Integration with Social Identity**: Explore integration of social media identities for enhanced validation and reputation management.
 - **Incentivized Node Participation**: Token-based incentive mechanisms to encourage active node participation in the verification process.
 - **Experimental Validation**: Thorough experimental validation to assess functionality, security, and performance parameters.
-
-
-## Author
-Mitali Sinha
